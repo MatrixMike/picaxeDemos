@@ -7,9 +7,11 @@ The processor operates and the 7 segment LED display changes.
 The Stepper Motor does not operate.
 
 TO CHECK:
-
-switches on the picaxe board
-switches on the motor driver board
+<ol>
+<li>switches on the picaxe board
+</li><li>switches on the motor driver board
+</li>
+</ol>
 
 the software - since a few days ago I was able to compile the software on Xubuntu laptop via Fritzing.
 I have created a github repo to hold any code generated - for posterity. It was originally generated before I did my teacher training on a WIN XP (I think) machine - various forms of the source are still around, check the source on Dell desktop.
